@@ -11,3 +11,5 @@ Steps:
 5) Run OL_main.py
 Alter Orbital_system.py and Orbital_plane.py to alter thresholds or number of meliorations.
 
+*** For LLM models, Please Use 'orbitallearning/client_llm' and 'orbitallearning/central_node_llm' docker images. These were used for the scalability demo.
+
